@@ -44,7 +44,7 @@
 </div>
 
 
-## 📈 Estatísticas
+## 📈 Stats
 
 <div align="center">
   <a href="https://github.com/iamgilvan">
