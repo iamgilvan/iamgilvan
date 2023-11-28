@@ -38,6 +38,5 @@
 #
 <div align="center">
 
- ![Snake animation](https://raw.githubusercontent.com/iamgilvan/iamgilvan/output/github-contribution-grid-snake-dark.svg)
- 
+ ![Snake animation](https://github.com/iamgilvan/iamgilvan/blob/output/github-contribution-grid-snake.svg)
 </div>
