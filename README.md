@@ -37,7 +37,7 @@
 
 #
 <div align="center">
- 
- ![Snake animation](https://github.com/iamgilvan/iamgilvan/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://raw.githubusercontent.com/iamgilvan/iamgilvan/output/github-contribution-grid-snake-dark.svg)
  
 </div>
