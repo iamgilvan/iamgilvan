@@ -5,10 +5,14 @@
 ## 💡 About Me :
 Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science and overall 8 years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itaú, ChampionX, Nalco and Wood Group. I have advanced proficiencies in C#, Python, HTML/CSS/JavaScript, SQL, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular. Successfully assist on both front-end and back-end software development tasks, ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities. 
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/gilvan-almeida/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <div>
+  </div>
+    <img src="https://komarev.com/ghpvc/?username=iamgilvan&style=flat-square&color=blue" alt=""/>
+  <div>
 </div>
 
 ## 🔮 Stack
