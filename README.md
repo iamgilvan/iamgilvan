@@ -3,7 +3,10 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 About Me :
-Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science and overall 8 years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itaú, ChampionX, Nalco and Wood Group. I have advanced proficiencies in C#, Python, HTML/CSS/JavaScript, SQL, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular. Successfully assist on both front-end and back-end software development tasks, ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities. 
+Experienced bilingual professional (Portuguese and English) with a BSc in Computer Science and over 8 years of experience in software development, full-stack, DevOps, SQL database management, and client support for multinational companies such as Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, Certisign, and ONS.  
+I am currently pursuing an MSc in Software Design with Cloud Native Computing at the Technological University of the Shannon (TUS), Ireland, focused on modern cloud-native architectures, DevOps practices, and scalable software systems.  
+I have strong skills in C#, Python, front-end frameworks (Angular, Vue, React), TypeScript, SQL, and I am familiar with cloud platforms such as AWS and Azure. I have also worked with MongoDB, SQL Server, MySQL, and have experience in unit and API testing, software architecture, and team-based engineering projects.
+Passionate about continuous learning, I enjoy tackling challenges, improving systems, and delivering solutions that enhance user experience and performance. 
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/gilvan-almeida/">
